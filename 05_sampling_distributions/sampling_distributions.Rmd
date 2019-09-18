@@ -15,6 +15,7 @@ knitr::opts_chunk$set(eval = FALSE)
 library(tidyverse)
 library(openintro)
 library(infer)
+library(labs2316)
 data(ames)
 ```
 
@@ -42,6 +43,7 @@ Let's load the packages.
 ```{r load-packages, message=FALSE}
 library(tidyverse)
 library(openintro)
+library(labs2316)
 library(infer)
 ```
 
