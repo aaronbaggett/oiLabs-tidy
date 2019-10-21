@@ -29,7 +29,8 @@ Either you can use `glimpse` like before, or `head` to do this.
 
 ```{r load-data}
 library(tidyverse)
-library(openintro)
+library(labs2316)
+data(fastfood)
 head(fastfood)
 ```
 
